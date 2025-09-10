@@ -1,0 +1,7 @@
+:root { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; }
+.container { max-width: 720px; margin: 40px auto; padding: 0 16px; }
+form { display: grid; gap: 8px; margin-bottom: 16px; }
+#list { list-style: none; padding: 0; display: grid; gap: 8px; }
+.note { border: 1px solid #ddd; border-radius: 8px; padding: 12px; }
+.note h3 { margin: 0 0 6px; font-size: 16px; }
+.note-actions { display: flex; gap: 8px; margin-top: 8px; }
